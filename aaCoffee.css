@@ -1,0 +1,737 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Anton&family=Cookie&family=Dancing+Script&family=Great+Vibes&family=Inspiration&family=Lobster&family=Lobster+Two&family=Satisfy&family=Smooch&family=Supermercado+One&family=Syne+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Cookie&family=Dancing+Script&family=Great+Vibes&family=Inspiration&family=Lobster&family=Lobster+Two&family=Palette+Mosaic&family=Satisfy&family=Smooch&family=Supermercado+One&family=Syne+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Cookie&family=Dancing+Script&family=Great+Vibes&family=Inspiration&family=Lobster&family=Lobster+Two&family=Palette+Mosaic&family=Satisfy&family=Smooch&family=Supermercado+One&family=Syne+Mono&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Cookie&family=Dancing+Script&family=Inspiration&family=Lobster&family=Lobster+Two&family=Palette+Mosaic&family=Satisfy&family=Smooch&family=Supermercado+One&family=Syne+Mono&display=swap');
+.toplinks{
+    /* padding-bottom: 0.5cm; */
+  padding-top: 0.5cm;
+    background-color: black;
+    height: 45px; ;
+    width: 39.7cm;
+    /* color: aliceblue; */
+    font-size: medium;
+    font-style: oblique;
+    color: rgb(60, 207, 60);
+ text-align: right;
+ font-weight: bold;
+ margin-right: 1cm;
+}
+.topbtn{
+    font-weight: bold;
+    color: aliceblue;
+    background-color: rgb(182, 88, 21);
+    border-radius: 10px;
+    margin-right: 0.5cm;
+}
+.topbtn:hover{
+    background-color: rgb(60, 207, 60);
+    color: chocolate;
+    /* text-shadow: 2px 2px 2px red; */
+    box-shadow:6px 6px  chocolate; 
+     
+}
+.toplinkshov:hover{
+    background-color: rgb(60, 207, 60);
+    color: chocolate;
+    box-shadow: 6px 6px  chocolate;
+    border-radius: 10px;
+}
+
+    .mugcls{
+/* background-color: rgb(11, 66, 114); */
+color:  rgb(60, 207, 60);
+margin-top: -0.7cm;
+width: 1cm;
+margin-left: 1cm;
+    }
+    .mugcls:hover{
+        box-shadow: 5px 5px  chocolate;
+
+    }
+    .tophd{
+        text-align: left;
+        font-family: 'Inspiration', cursive;
+        /* font-family: 'Palette Mosaic', cursive; */
+        /* font-family: 'Great Vibes', cursive;*/
+        
+        color: chocolate;
+        font-weight: bolder;
+        margin-left: 2.5cm;
+        margin-top: -0.8cm;
+        font-size: xx-large;
+    }
+    .tophd:hover{
+        color:  rgb(60, 207, 60);
+    }
+    .seclinks{
+        
+ padding-top: 1.5cm;
+    background-color: chocolate;
+    /* color: chocolate */
+    height: 70px; ;
+    width: 39.7cm;
+    
+    font-family: 'Great Vibes', cursive;
+  
+font-size: large;
+    font-style: oblique;
+   
+ text-align: left;
+ font-weight: bolder;
+ margin-right: 1cm;
+    }
+    .seclinks:hover{
+        color: rgb(238, 238, 238);
+    }
+    .seclinksclr{
+        color: black;
+    }
+    /* .seclinksclr:hover{
+        color: aliceblue;
+    } */
+    .srcicon{
+        position: absolute;
+        top: 3.2cm;
+    }
+    .buy{
+        position: absolute;
+        top: 3.2cm;
+    }
+    .menu{
+        position: absolute;
+        top: 3.2cm;   
+    }
+    .imgmid{
+        /* background-color: aliceblue; */
+        height:10px ;
+        width:250px ;
+        margin-left: 7.5cm;
+        margin-top: -0.5cm;
+        /* 0display: block;
+        margin-left: auto;
+        margin-right: auto; */
+    }
+.vdodiv{
+   /* margin-bottom: 10cm; */
+    /* margin-top: -1cm; */
+    position: absolute;
+    margin-left: 1cm;
+    height:1cm;
+    width: 14cm;
+    /* background-color: blue;
+    background-image: url(./newimages/vdoimg.jpg); */
+    background-size: cover;
+    background-position: 15cm;
+    top: 1cm;
+}
+.aftvdodiv{
+    position: absolute;
+    left: 29.5cm;
+    height:12cm;
+    width: 10cm;
+    background-image: url(./newimages/long.jpg);
+    /* background-position: center; */
+    background-position: 2cm;
+    /* background-color: rgb(43, 226, 67); */
+    /* margin-left: auto; */
+    top:1.5cm;
+border-style: solid;
+}
+.aftvdodiv:hover{
+    /* color: red;
+    background-color: aliceblue; */
+    box-shadow: 5px 15px 15px rgb(184, 10, 10);
+   
+}
+.vdobgdiv{
+    position: relative;
+    top: -1.9m;
+    height: 16cm;
+    width: 39.7cm;
+    
+   
+   
+background-image: url(./newimages/aftvdo.jpg);
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+     background-position:-1cm ;
+
+}
+.vdobgh1{
+    
+    position: absolute;
+    /* width: 30cm; */
+    /* height: 0cm; */
+    font-size: xx-large;
+    top: 4cm;
+    left: 14cm;
+    color: rgb(233, 221, 221);
+   
+}
+.vdobgh1:hover{
+    background-color: rgb(125, 214, 125);
+    color: rgb(2, 2, 2);
+    border-radius: 3px;
+}
+
+.vdobgh2{
+    position: absolute;
+    color: rgb(245, 224, 224);
+    
+  
+    top: 6cm;
+    left: 12cm;
+}
+.vdobgh2:hover{
+    border-radius: 3px;
+    background-color: chocolate;
+    color: rgb(0, 0, 0);
+}
+.vdobgbtn{
+    position: absolute;
+    font-family: 'Inspiration', cursive;
+font-size: 10px;
+top: 8cm;
+left: 16cm;
+
+}
+ .vdobgbtn:hover{
+    position: absolute;
+   color: black;
+   /* text-shadow: 15px 15px 5px black; */
+} 
+.vdo{
+    position: absolute;
+    top: 2.3cm;
+    left: -4cm;
+}
+.toppara{
+    position: absolute;
+    text-align: center;
+    color:rgb(107, 49, 8) ;
+}
+.toppara:hover{
+    position: absolute;
+    color: red;
+    
+}
+.des{
+    position: relative;
+    
+    width: 39.7cm;
+    height: 20cm;
+    background-image: url(./newimages/bgg.jpg);
+    /* background-image: url(./newimages/cfcp.webp); */
+    /* background-color: rgb(80, 39, 9); */
+    background-size: cover;
+background-position: -10cm;
+}
+.imgovrgrn{
+    top: -4cm;
+    left: 13.5cm;
+    position: absolute;
+   
+}
+.wrap{
+    margin-top: cm;
+}
+.desbox{
+    /* background-color: black; */
+    position: absolute;
+    width: 12cm;
+    height: 5cm;
+}
+.desbox:hover{
+    box-shadow: 15px 15px 5px  rgb(60, 207, 60) ;
+}
+.desb1{
+    
+    /* border-style: solid; */
+    margin-left: 1.5cm;
+    margin-top: 1cm;
+    position: absolute;
+background-color: chocolate;
+/* padding-left: 5cm; */
+}
+.desb2{
+    margin-left: 25.5cm;
+    margin-top: 1cm;
+    position: absolute;
+    background-color: chocolate;
+    }
+    .desb3{
+        margin-left: 1.5cm;
+        margin-top: 7.5cm;
+        position: absolute;
+        background-color: chocolate;
+        }
+        .desb4{
+           
+            position: absolute;
+            margin-left: 25.5cm;
+                    margin-top: 7.5cm;
+            background-color: chocolate;
+            }
+            .desb5{
+                
+                margin-left: 1.5cm;
+                margin-top: 14cm;
+                position: absolute;
+               
+                background-color: chocolate;
+                }
+                .desb6{
+                    position: absolute;
+                    margin-left: 25.5cm;
+                    margin-top: 14cm;
+                    background-color: chocolate
+                    }
+                   
+                    .im1{
+                        position: absolute;
+                        left: 7cm;
+
+                    }
+                    .im4{
+                        position: absolute;
+                        left: 7cm;
+
+                    }
+                    .im5{
+                        position: absolute;
+                        left: 7cm;
+                    }
+                     .hd1{
+                        position: absolute;
+                        top: -0.5cm;
+                        left: 2cm;
+                        color: black;
+                    }
+                    .hd2{
+                        position: absolute;
+                        left: 6.5cm;
+
+                    }
+                    .row{
+                        position: relative;
+                        /* background-image: url(./newimages/Green-coffee.jpg); */
+                        /* background-image: url(./newimages/a2.jpg); */
+    /* background-image: url(./newimages/cfcp.webp); */
+    /* background-color: rgb(80, 39, 9); */
+    /* background-size: cover;
+background-position: -9cm; */
+                        background-color: rgb(214, 144, 93);
+                        width: 39.7cm;
+                        height: 700px;
+                        display: flex;
+                        /* background-image: url(./newimages/bgg.jpg);
+                        background-size: cover;
+                        background-position: -10cm; */
+                      /* justify-content: space-between; */
+                        /* justify-content: space-evenly; */
+                        /* justify-content: space-around; */
+                        /* justify-content: end; */
+                        align-items: center;
+                        /* align-items: baseline; */
+                        /* align-items: stretch; */
+                        /* align-items: flex-end; */
+                    }
+                    .col{
+                        height: 200px;
+                        width: 200px;
+                        /* border: 2px black solid; */
+                        border-radius: 10cm;
+                    }
+                    /* /* .brk{
+                        flex-basis: 200px ;
+                        height: 200px; */
+                    
+                    .c1{
+                        background-color: chocolate;
+                        border-radius: 10cm;
+                    }
+                    .c2{
+                        /* background-color: chartreuse; */
+                        margin-top: 1cm;
+                        margin-left: -2cm;
+                    
+                    }
+                    .c3{
+                        background-color: rgb(196, 165, 29);
+                        margin-top: 1cm;
+                        border-radius: 10cm;
+                    }
+                    .c4{
+                        /* background-color: orchid; */
+                        /* margin-left: 0.5cm; */
+                    }
+                    .c5{
+                        background-color: blueviolet;
+                        margin-top: 1cm;
+                        border-radius: 10cm;
+                    }
+                    .c6{
+                        /* background-color: rgb(27, 184, 105); */
+                        margin-top: 1cm;
+                    }
+                    .c7{
+                        background-color: darkred;
+                        border-radius: 10cm;
+                    }
+                    .c8{
+                        /* background-color: rgb(27, 4, 26); */
+                        margin-top: 1cm;
+                        margin-left: 2cm;
+                    }
+                    .c9{
+                        background-color: rgb(143, 211, 152);
+                        margin-top: 1cm;
+                        border-radius: 10cm;
+                    }
+                    
+                    .gal1{
+                        /* background-color: black; */
+                        margin-left: 20cm;
+                        margin-top: 0.5cm;
+                    }
+                    .gal2{
+                        /* background-color: brown; */
+                   /* margin-left: 12cm; */
+                   margin-top: 0.5cm;
+                    }
+                    .gal3{
+                        /* background-color: aqua; */
+                    /* margin-left: 20cm; */
+                    margin-top: 0.5cm;
+                }
+                .door{
+                    position: absolute;
+                    /* background-color: chocolate; */
+                    background-image: url(./newimages/bh.jpg);
+                    background-position: -6cm -4cm;
+                    width: 15cm;
+                    height: 610px;
+                    left: 0.5cm;
+                    border-radius: 5000px;
+                    border-style: solid;
+                    
+
+                }
+                .frm{
+                    position: absolute;
+                    left: 3cm;
+                    top: 11cm;
+                }
+                .imgfrm{
+                    position: absolute;
+                    left: 3.5cm;
+                    
+                }
+                .serv{
+                    position: absolute;
+                    top: 5.5cm;
+                    
+                    left: 0.5cm;
+                }
+                .g{
+                    text-align: center;
+                    color: rgb(156, 13, 13);
+                }
+               .door:hover{
+                
+                box-shadow: 20px 20px 7px red;
+   
+               }
+               .drb{
+                   
+                font-weight: bold;
+                color: aliceblue;
+                background-color: rgb(182, 88, 21);
+                border-radius: 10px;
+                margin-right: 0.5cm;
+            }
+            .drb:hover{
+                background-color: rgb(60, 207, 60);
+                color: rgb(15, 14, 13);
+                /* text-shadow: 2px 2px 2px red; */
+                box-shadow: 6px 6px  red; 
+                 
+            }
+            .imggl{
+                position: absolute;
+                height: 200px;
+                width: 200px;
+                border-radius: 950px;
+            }
+            /* .galbg{
+                background-color: aliceblue;
+            } */
+          
+            .dropbtn {
+                background-color:transparent;
+                color: rgb(5, 0, 0);
+                padding: 16px;
+                font-size: 16px;
+                border: none;
+                margin-left: 1.5cm;
+              }
+              
+              /* The container <div> - needed to position the dropdown content */
+              .dropdown {
+                position: relative;
+                display: inline-block;
+              }
+              
+              /* Dropdown Content (Hidden by Default) */
+              .dropdown-content {
+                display: none;
+                position: absolute;
+                background-color: transparent;
+                /* font-family: 'Great Vibes', cursive; */
+                /* min-width: 100px; */
+                width: 7cm;
+                box-shadow: 0px 8px 16px 0px rgba(184, 37, 37, 0.2);
+                 z-index: 1;
+              }
+              
+              /* Links inside the dropdown */
+              .dropdown-content a {
+                color: rgb(192, 107, 107);
+                padding: 5px 5px;
+                text-decoration: none;
+                display: block;
+              }
+              /* Change color of dropdown links on hover */
+  .dropdown-content a:hover {background-color: transparent;}
+  
+  /* Show the dropdown menu on hover */
+  .dropdown:hover .dropdown-content {display: block;}
+  
+  /* Change the background color of the dropdown button when the dropdown content is shown */
+  .dropdown:hover .dropbtn {background-color:rgb(60, 207, 60);}
+  .dropbtn12 {
+    /* background-color:transparent;
+    color: rgb(5, 0, 0);
+    padding: 16px;
+    font-size: 16px;
+    border: none; */
+    position: absolute;
+    margin-left: cm;
+    margin-top: -5cm;
+    /* background-color: blue; */
+    width: 7cm;
+    height: 7cm;
+  }
+  .tct{
+      text-align: center;
+  }
+  .sticky{
+      position: relative;
+      
+      width:4cm ;
+      position: sticky;
+      top: 4px;
+      height:4cm ;
+      left: 20.6cm;
+      /* background-color: blueviolet; */
+  }
+  /* .calm{
+      position: absolute;
+      left: 7cm;
+  } */
+  .footer{
+      position: relative;
+      width: 39.7cm;
+      height: 12cm;
+      background-color: rgb(153, 121, 97);
+      /* background-color: blueviolet; */
+  }
+  .abt{
+      position: relative;
+left: 11cm;
+      height: 5cm;
+width: 15.5cm;
+/* background-color: black; */
+  }
+  .btmimg{
+      top: -0.5cm;
+      position: absolute;
+left: 5.5cm;
+  }
+  .btmpara{
+      top: 2cm;
+      color: rgb(0, 0, 0);
+      position: absolute;
+      text-align: center;
+/* background-color: chartreuse; */
+font-family: 'Great Vibes', cursive;
+font-weight: bolder;
+  }
+  .cartn{
+      left:6cm;
+      position: relative;
+      height: 5cm;
+width: 25cm;
+/* background-color: rgb(17, 126, 84); */
+  }
+  .car1{
+      
+      position: absolute;
+     
+  }
+  .car2{
+      left: 10cm;
+      top: -1cm;
+    position: absolute;
+}
+.car3{
+    position: absolute;
+left: 20cm;
+}
+.bt1{
+    font-weight: bolder;
+border-radius: 5px;
+    background-color: chocolate;
+    left: 1.2cm;
+    top: 4.5cm;
+    position: absolute;
+}
+.bt2{
+    font-weight: bolder;
+    border-radius: 5px;
+    background-color: chocolate;
+    top: 3.5cm;
+    left: 11.5cm;
+    position: absolute;
+}
+.bt3{
+    font-weight: bolder;
+    border-radius: 5px;
+    background-color: chocolate;
+    top: 4.5cm;
+    left: 20.5cm;
+    position: absolute;
+}
+.bt1:hover{
+    position: absolute;
+    background-color: rgb(35, 153, 35);
+    color: rgb(223, 217, 213);
+    /* text-shadow: 2px 2px 2px red; */
+    box-shadow:6px 6px  rgb(15, 15, 15); 
+     
+}
+.bt2:hover{
+    position: absolute;
+    background-color: rgb(35, 153, 35);
+    color: rgb(223, 217, 213);
+    /* text-shadow: 2px 2px 2px red; */
+    box-shadow:6px 6px  rgb(15, 15, 15); 
+     
+}
+.bt3:hover{
+    position: absolute;
+    background-color: rgb(35, 153, 35);
+    color: rgb(223, 217, 213);
+    /* text-shadow: 2px 2px 2px red; */
+    box-shadow:6px 6px  rgb(15, 15, 15); 
+     
+}
+.socl{
+    /* background-color: darkorange; */
+    position: absolute;
+    left: 13.5cm;
+    height: 2cm;
+width: 17cm;
+}
+.btmst{
+    
+    position: relative;
+    top: 2cm;
+    height: 1cm;
+width: 39.7cm;
+background-color: rgb(167, 81, 20);
+}
+.fb{
+    background-color: blue;
+}
+.n{
+    top: 0.2cm;
+    position: absolute;
+    left: 14cm;
+    font-weight: bold;
+}
+.insta{
+    border-radius: 60px;
+    background-color: transparent;
+}
+.fb{
+    border-radius: 60px;
+    background-color: transparent;
+}
+.wp{
+    border-radius: 60px;
+    background-color: transparent;
+}
+.yt{
+    border-radius: 60px;
+    background-color: transparent;
+}
+.tw{
+    border-radius: 60px;
+    background-color: transparent;
+}
+.insta:hover{
+    background-color: rgb(243, 21, 139);
+}
+.fb:hover{
+    background-color: rgb(21, 95, 180);
+}
+.wp:hover{
+    background-color: rgb(41, 160, 41);
+}
+.yt:hover{
+    background-color: rgb(231, 38, 38);
+}
+.tw:hover{
+    background-color: rgb(0, 153, 255);
+}
+.col:hover{
+    background-color: rgb(38, 199, 38);
+}
+.excel{
+    font-family: 'Great Vibes', cursive;
+    position: absolute;
+    top:4cm;
+    left: cm;
+    color: rgb(172, 80, 14);
+font-weight: 900;
+font-size:x-large;
+}
+.any{
+    position: absolute;
+    left: cm;
+    top: -0.5cm;
+}
+.free{
+    background-color: chocolate;
+}
+.free:hover{
+    position: absolute;
+    background-color: rgb(35, 153, 35);
+    color: rgb(223, 217, 213);
+    /* text-shadow: 2px 2px 2px red; */
+    box-shadow:6px 6px  rgb(241, 241, 241); 
+     
+
+}
+.milk{
+position: absolute;
+left: 11cm;
+top: -4cm;
+}
+.beans{
+    
+    top: 4.5cm;
+    left: 21.2cm;
+position:absolute
+}
